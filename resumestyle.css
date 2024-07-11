@@ -1,0 +1,19 @@
+body{
+    background: skyblue;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    background: white;
+}
+h2{
+    background: greenyellow;
+}
+h3{
+    background: lightcoral;
+}
+img{
+    margin-left: 85%;
+}
